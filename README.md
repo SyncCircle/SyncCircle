@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently can code in **Java, SQL, PHP, HTML, CSS and JavaScript**
 
-- 📫 How to reach me **contact@devorange.de**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/nds.bennit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nds.bennit" height="30" width="40" /></a>
