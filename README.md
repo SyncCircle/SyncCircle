@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DevOrange</h1>
+<h1 align="center">Hi 👋, I'm SyncCircle</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devorangee&label=Profile%20views&color=0e75b6&style=flat" alt="devorangee" /> </p>
 
 - 🌱 I’m currently can code in **Java, SQL, PHP, HTML, CSS and JavaScript**
